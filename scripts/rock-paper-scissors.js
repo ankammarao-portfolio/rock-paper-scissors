@@ -92,6 +92,6 @@
         score.loses = 0;
         score.ties = 0;
         localStorage.removeItem('score');
-        updateScoreElement() 
-        alert('Score reset!');
+        updateScoreElement();
     }
+
