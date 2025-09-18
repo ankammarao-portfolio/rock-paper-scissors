@@ -39,4 +39,16 @@
       color:black;
       padding: 8px 12px;
       cursor: pointer;
+     border: none;
+
+    }
+
+@media (max-width: 720px) {
+    .move-button {
+      width: 90px;
+      height: 90px;
+      border-radius: 45px;
+
+    }
+
     }
