@@ -16,6 +16,7 @@ Play against the computer and see if you can win!
 
 ## 🖼️ Demo
 👉 [Play the Game](https://ankammarao-portfolio.github.io/rock-paper-scissors)
+
 <img width="562" height="380" alt="image" src="https://github.com/user-attachments/assets/d24862c9-9d0c-4624-8672-5f7cdbcee081" />
 
 
